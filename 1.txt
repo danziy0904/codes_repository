@@ -1,0 +1,5 @@
+Git is a version control system
+Git is free software distributed under the gpl
+Git has a mutable index called stage
+Git tracks changes of files.
+小周是个笨蛋
