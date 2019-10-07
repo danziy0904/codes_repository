@@ -1,3 +1,4 @@
-Git is a version control system
-Git is free software distributed under the gpl
-Git has a mutable index called stage
+科研之路
+小黄的科研之路呀~
+嗯，主要记载自己做过的实验代码，以及一些笔记或者感想
+科研小白加油~
